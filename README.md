@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chelosires
+- 👋 Hi, I’m @chelosires from Argentina
 - 👀 I’m interested in python, data science, data insights/visualization/presentation
 - 🌱 I’m currently learning Statistics and Data Science from MITx
 - 💞️ I’m looking to collaborate on real-life data analysis projects
